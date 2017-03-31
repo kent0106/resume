@@ -11,7 +11,7 @@ class Home extends React.Component {
                                     <i className="iconfont icon-biaoti"></i>基本信息
                                 </dt>
                                 <dd>
-                                    <span>个人信息:</span>叶文翔 / 男 / 24岁
+                                    <span>个人信息:</span>张三 / 男 / 24岁
                                 </dd>
                                 <dd>
                                     <span>毕业院校:</span>湖北工业大学
@@ -40,57 +40,51 @@ class Home extends React.Component {
                                         <i className="iconfont icon-phone"></i>
                                         联系电话:
                                     </span>
-                                    17000210556
+                                    1234567890
                                 </dd>
                                 <dd>
                                     <span>
                                         <i className="iconfont icon-weixin"></i>
                                         联系微信:
                                     </span>
-                                    ye435379424
+                                    123456
                                 </dd>
                                 <dd>
                                     <span>
                                         <i className="iconfont icon-QQ"></i>
                                         联系QQ:
                                     </span>
-                                    435379424
+                                    123456
                                 </dd>
                                 <dd>
                                     <span>
                                         <i className="iconfont icon-gmail"></i>
                                         联系邮箱:
                                     </span>
-                                    yewenxiang23@gmail.com
+                                    zs123456@gmail.com
                                 </dd>
                                 <dd>
                                     <span>
                                         <i className="iconfont icon-wodeboke"></i>
                                         blog:
                                     </span>
-                                    <a href="http://www.cnblogs.com/yewenxiang/">http://www.cnblogs.com/yewenxiang/</a>
+                                    <a href="#">#</a>
                                 </dd>
                                 <dd>
                                     <span>
                                         <i className="iconfont icon-github"></i>
                                         github:
                                     </span>
-                                    <a href="https://github.com/yewenxiang23">https://github.com/yewenxiang23</a>
+                                    <a href="https://github.com">https://github.com</a>
                                 </dd>
                                 <dd>
                                     <span>
                                         <i className="iconfont icon-markdown"></i>
                                         Markdown笔记:
                                     </span>
-                                    <a href="https://yewenxiang23.github.io/">https://yewenxiang23.github.io/</a>
+                                    <a href="https://kent0106.github.io/">https://kent0106.github.io/</a>
                                 </dd>
-                                <dd>
-                                    <span>
-                                        <i className="iconfont icon-icon"></i>
-                                        简历源码:
-                                    </span>
-                                    <a href="https://github.com/yewenxiang23/my-resume">https://github.com/yewenxiang23/my-resume</a>
-                                </dd>
+                               
                             </dl>
                         </li>
 
